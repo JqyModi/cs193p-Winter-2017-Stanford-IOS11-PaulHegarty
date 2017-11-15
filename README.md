@@ -7,7 +7,7 @@ Stanford University
 	- 4.Drawing in iOS
 	- 5.Multitouch Gestures and Combining MVCs
 - 视频下载地址：
-	- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYLRRSPTTANK2G/download/dl.m4v
+	- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADZGRJYYKMISZND/download/dl.m4v
 	- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEJ3F0MCPGTOJTE/download/dl.m4v
 	- 3.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEFTGOILZW1VRZE/download/dl.m4v
 	- 4.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFQOD0MHFEDNUEI/download/dl.m4v
