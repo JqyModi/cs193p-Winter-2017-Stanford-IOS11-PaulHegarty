@@ -1,0 +1,32 @@
+# ITunes-U-Stanford-IOS-11-Paul-Hegarty
+Stanford University
+- 课程大纲：
+	- 1.Introduction to iOS 11, Xcode 9 and Swift 4
+	- 2.MVC;iOS,Xcode and Swift Demonstration
+	- 3.Swift Overview
+	- 4.Drawing in iOS
+	- 5.Multitouch Gestures and Combining MVCs
+- 视频下载地址：
+	- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYLRRSPTTANK2G/download/dl.m4v
+	- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEJ3F0MCPGTOJTE/download/dl.m4v
+	- 3.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEFTGOILZW1VRZE/download/dl.m4v
+	- 4.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFQOD0MHFEDNUEI/download/dl.m4v
+	- 5.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEXXOGLVJ2ZTHBJ/download/dl.m4v
+	- 6.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYLRRSPTTANK2G/download/dl.m4v
+- 文稿下载地址：
+	- 讲义下载地址： 
+		- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAENCR1FANSBHI0G/download/dl.pdf
+		- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAENCR1FANSBHI0G/download/dl.pdf
+		- 3.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADB001OSUTS3RGH/download/dl.pdf
+		- 4.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEE3QOHOJJKD0OE/download/dl.pdf
+		- 5.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADUDURXRYWFSISH/download/dl.pdf
+		- 6.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADT01DBENDHMRWC/download/dl.pdf
+	- 阅读下载地址：
+		- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYKAJQUOZUQBSH/download/dl.pdf
+		- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAF3USSKWHOONMJD/download/dl.pdf
+	- 项目下载地址：
+		- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEH3GKBFASIKURJ/download/dl.pdf
+		- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFADRYVELCRJZLE/download/dl.pdf
+	- 网页链接：
+		- 1.https://developer.apple.com/devcenter/ios
+		- 2.https://developer.apple.com/swift
