@@ -1,32 +1,23 @@
-# ITunes-U-Stanford-IOS-11-Paul-Hegarty
+# ITunesU-Stanford-IOS11-PaulHegarty
 Stanford University
-- 课程大纲：
-	- 1.Introduction to iOS 11, Xcode 9 and Swift 4
-	- 2.MVC;iOS,Xcode and Swift Demonstration
-	- 3.Swift Overview
-	- 4.Drawing in iOS
-	- 5.Multitouch Gestures and Combining MVCs
-- 视频下载地址：
-	- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADZGRJYYKMISZND/download/dl.m4v
-	- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEJ3F0MCPGTOJTE/download/dl.m4v
-	- 3.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEFTGOILZW1VRZE/download/dl.m4v
-	- 4.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFQOD0MHFEDNUEI/download/dl.m4v
-	- 5.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEXXOGLVJ2ZTHBJ/download/dl.m4v
-	- 6.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYLRRSPTTANK2G/download/dl.m4v
-- 文稿下载地址：
-	- 讲义下载地址： 
-		- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAENCR1FANSBHI0G/download/dl.pdf
-		- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAENCR1FANSBHI0G/download/dl.pdf
-		- 3.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADB001OSUTS3RGH/download/dl.pdf
-		- 4.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEE3QOHOJJKD0OE/download/dl.pdf
-		- 5.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADUDURXRYWFSISH/download/dl.pdf
-		- 6.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADT01DBENDHMRWC/download/dl.pdf
-	- 阅读下载地址：
-		- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYKAJQUOZUQBSH/download/dl.pdf
-		- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAF3USSKWHOONMJD/download/dl.pdf
-	- 项目下载地址：
-		- 1.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEH3GKBFASIKURJ/download/dl.pdf
-		- 2.https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFADRYVELCRJZLE/download/dl.pdf
-	- 网页链接：
-		- 1.https://developer.apple.com/devcenter/ios
-		- 2.https://developer.apple.com/swift
+
+- 网页链接：
+	- 1.https://developer.apple.com/devcenter/ios
+	- 2.https://developer.apple.com/swift
+
+### 视频区
+
+视频可在线观看及下载用Mac自带QuickTimePlayer播放可显示英文字幕:
+
+大纲         | 视频           | 讲义     |   阅读材料  |  项目伪代码 |
+--------------------|------------------|-----------------------|---------------------|---|
+1.Introduction to iOS 11, Xcode 9 and Swift 4 | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADZGRJYYKMISZND/download/dl.m4v)<sup>视频</sup>   | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAENCR1FANSBHI0G/download/dl.pdf)<sup>讲义</sup>   |   [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYKAJQUOZUQBSH/download/dl.pdf)<sup>阅读1</sup>|
+2.MVC       | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEJ3F0MCPGTOJTE/download/dl.m4v)<sup>视频</sup>   | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAENCR1FANSBHI0G/download/dl.pdf)<sup>讲义</sup>   |    |  [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEH3GKBFASIKURJ/download/dl.pdf)<sup>demo1</sup>  |
+3.Swift Programming Language  | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEFTGOILZW1VRZE/download/dl.m4v)<sup>视频</sup>      | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADB001OSUTS3RGH/download/dl.pdf)<sup>讲义</sup>        |[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYKAJQUOZUQBSH/download/dl.pdf)<sup>阅读2</sup>|
+4.More Swift      | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFQOD0MHFEDNUEI/download/dl.m4v)<sup>视频</sup>  | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEE3QOHOJJKD0OE/download/dl.pdf)<sup>讲义</sup>    | |[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFADRYVELCRJZLE/download/dl.pdf)<sup>demo2</sup>|
+5.Drawing           | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEXXOGLVJ2ZTHBJ/download/dl.m4v)<sup>视频</sup>    | <mark>[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADUDURXRYWFSISH/download/dl.pdf)<sup>讲义</sup></mark>  |[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFOZAKXSU0RMDRE/download/dl.pdf)<sup>阅读3</sup>|
+6.Multitouch         | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFYLRRSPTTANK2G/download/dl.m4v)<sup>视频</sup>     | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADT01DBENDHMRWC/download/dl.pdf)<sup>讲义</sup>   | |[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFWDEMHCN0JBXZA/download/dl.pdf)<sup>demo3</sup>
+7.Multiple MVCs, Timer, and Animation            | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFNOOZKY3QOILHC/download/dl.m4v)<sup>视频</sup>      | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAEKAIQQBVZCORUD/download/dl.pdf)<sup>讲义</sup>         |
+8.Animation           | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFZVAHRS0EQOEAB/download/dl.m4v)<sup>视频</sup> | [#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFBKG3RTSRPTVEB/download/dl.pdf)<sup>讲义</sup>   ||[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFAP0CHA23CSLNC/download/dl.pdf)<sup>demo3</sup>|
+9.View Controller Lifecycle and ScrollView	|	[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFA0XA1GARU0YZD/download/dl.m4v)<sup>视频</sup>	|	[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAFBQCUWLXYQLPAB/download/dl.pdf)<sup>讲义</sup>	|
+10.Multithreading and Autolayout|		[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MAF2ANO0JM2ELIOC/download/dl.m4v)<sup>视频</sup>	|	[#Swift 4](https://p1-u.itunes.apple.com/WebObjects/LZStudent.woa/ra/1/courses/CODOAOSRJY0GOAQH/materials/MADZMFCXRHWZAD2A/download/dl.pdf)<sup>讲义</sup>	| 
