@@ -6,9 +6,12 @@ Stanford University
 	- 2.https://developer.apple.com/swift
 
 ### 周五课程
-	- 1.[Debugging and Xcode Tips and Tricks](https://itunesu-assets.itunes.apple.com/apple-assets-us-std-000001/CobaltPublic128/v4/05/6b/ee/056beea1-11c6-13da-e46a-56952ed2c733/504-8815564797834236275-Friday_01_9_29_17_WIP02_CS193p_1080p_3mb_cc.m4v)
-	- 2.[Github and Source Control Workflow](https://itunesu-assets.itunes.apple.com/apple-assets-us-std-000001/CobaltPublic118/v4/7b/61/60/7b616031-b2f8-bf76-5171-9dd7c29109ba/533-6252825471341223932-Friday_02_WIP02_1080p_CS193p_1080p_3mb_cc.m4v)
-	- 3.[Instruments](https://itunesu-assets.itunes.apple.com/apple-assets-us-std-000001/CobaltPublic118/v4/30/9a/56/309a56d3-b57a-0bb1-c465-d80ec6740160/531-9139141023410630962-Friday_03_10_27_17_WIP02_CS193p_1080p_3mb_cc.m4v)
+[1. Debugging and Xcode Tips and Tricks](https://itunesu-assets.itunes.apple.com/apple-assets-us-std-000001/CobaltPublic128/v4/05/6b/ee/056beea1-11c6-13da-e46a-56952ed2c733/504-8815564797834236275-Friday_01_9_29_17_WIP02_CS193p_1080p_3mb_cc.m4v)
+
+[2. Github and Source Control Workflow](https://itunesu-assets.itunes.apple.com/apple-assets-us-std-000001/CobaltPublic118/v4/7b/61/60/7b616031-b2f8-bf76-5171-9dd7c29109ba/533-6252825471341223932-Friday_02_WIP02_1080p_CS193p_1080p_3mb_cc.m4v)
+
+[3. Instruments](https://itunesu-assets.itunes.apple.com/apple-assets-us-std-000001/CobaltPublic118/v4/30/9a/56/309a56d3-b57a-0bb1-c465-d80ec6740160/531-9139141023410630962-Friday_03_10_27_17_WIP02_CS193p_1080p_3mb_cc.m4v)
+
 
 ### 视频区
 
